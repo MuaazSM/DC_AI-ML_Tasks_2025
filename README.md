@@ -7,7 +7,7 @@
 - Read each prompt carefully; constraints are important.
 - Write your code and provide your reasoning as instructed.
 - If the code doesn't execute properly, type out your thinking process below it, we will judge on that basis.
-
+- **DO READ ALL THE DOCUMENTATION BELOW AND UNDERSTAND THE CODE YOU WRITE PROPERLY, WE WILL BE ASKING YOU QUESTIONS RELATED TO IT IN THE ROUND 2**
 
 # Candidate Reference Guide
 
